@@ -1,0 +1,1010 @@
+[
+  {
+    "currencyCode": "AED",
+    "currencyName": "UAE Dirham",
+    "active": true,
+    "currencyValue": 784
+  },
+  {
+    "currencyCode": "AFN",
+    "currencyName": "Afghani",
+    "active": true,
+    "currencyValue": 971
+  },
+  {
+    "currencyCode": "ALL",
+    "currencyName": "Lek",
+    "active": true,
+    "currencyValue": 8
+  },
+  {
+    "currencyCode": "AMD",
+    "currencyName": "Armenian Dram",
+    "active": true,
+    "currencyValue": 51
+  },
+  {
+    "currencyCode": "ANG",
+    "currencyName": "Netherlands Antillean Guilder",
+    "active": true,
+    "currencyValue": 532
+  },
+  {
+    "currencyCode": "AOA",
+    "currencyName": "Kwanza",
+    "active": true,
+    "currencyValue": 973
+  },
+  {
+    "currencyCode": "ARS",
+    "currencyName": "Argentine Peso",
+    "active": true,
+    "currencyValue": 32
+  },
+  {
+    "currencyCode": "AUD",
+    "currencyName": "Australian Dollar",
+    "active": true,
+    "currencyValue": 36
+  },
+  {
+    "currencyCode": "AWG",
+    "currencyName": "Aruban Florin",
+    "active": true,
+    "currencyValue": 533
+  },
+  {
+    "currencyCode": "AZN",
+    "currencyName": "Azerbaijanian Manat",
+    "active": true,
+    "currencyValue": 944
+  },
+  {
+    "currencyCode": "BAM",
+    "currencyName": "Convertible Mark",
+    "active": true,
+    "currencyValue": 977
+  },
+  {
+    "currencyCode": "BBD",
+    "currencyName": "Barbados Dollar",
+    "active": true,
+    "currencyValue": 52
+  },
+  {
+    "currencyCode": "BDT",
+    "currencyName": "Taka",
+    "active": true,
+    "currencyValue": 50
+  },
+  {
+    "currencyCode": "BGN",
+    "currencyName": "Bulgarian Lev",
+    "active": true,
+    "currencyValue": 975
+  },
+  {
+    "currencyCode": "BHD",
+    "currencyName": "Bahraini Dinar",
+    "active": true,
+    "currencyValue": 48
+  },
+  {
+    "currencyCode": "BIF",
+    "currencyName": "Burundi Franc",
+    "active": true,
+    "currencyValue": 108
+  },
+  {
+    "currencyCode": "BMD",
+    "currencyName": "Bermudian Dollar",
+    "active": true,
+    "currencyValue": 60
+  },
+  {
+    "currencyCode": "BND",
+    "currencyName": "Brunei Dollar",
+    "active": true,
+    "currencyValue": 96
+  },
+  {
+    "currencyCode": "BOB",
+    "currencyName": "Boliviano",
+    "active": true,
+    "currencyValue": 68
+  },
+  {
+    "currencyCode": "BOV",
+    "currencyName": "Mvdol",
+    "active": true,
+    "currencyValue": 984
+  },
+  {
+    "currencyCode": "BRL",
+    "currencyName": "Brazilian Real",
+    "active": true,
+    "currencyValue": 986
+  },
+  {
+    "currencyCode": "BSD",
+    "currencyName": "Bahamian Dollar",
+    "active": true,
+    "currencyValue": 44
+  },
+  {
+    "currencyCode": "BTN",
+    "currencyName": "Ngultrum",
+    "active": true,
+    "currencyValue": 64
+  },
+  {
+    "currencyCode": "BWP",
+    "currencyName": "Pula",
+    "active": true,
+    "currencyValue": 72
+  },
+  {
+    "currencyCode": "BYN",
+    "currencyName": "Belarussian Ruble",
+    "active": true,
+    "currencyValue": 933
+  },
+  {
+    "currencyCode": "BZD",
+    "currencyName": "Belize Dollar",
+    "active": true,
+    "currencyValue": 84
+  },
+  {
+    "currencyCode": "CAD",
+    "currencyName": "Canadian Dollar",
+    "active": true,
+    "currencyValue": 124
+  },
+  {
+    "currencyCode": "CDF",
+    "currencyName": "Congolese Franc",
+    "active": true,
+    "currencyValue": 976
+  },
+  {
+    "currencyCode": "CHE",
+    "currencyName": "WIR Euro",
+    "active": true,
+    "currencyValue": 947
+  },
+  {
+    "currencyCode": "CHF",
+    "currencyName": "Swiss Franc",
+    "active": true,
+    "currencyValue": 756
+  },
+  {
+    "currencyCode": "CHW",
+    "currencyName": "WIR Franc",
+    "active": true,
+    "currencyValue": 948
+  },
+  {
+    "currencyCode": "CLF",
+    "currencyName": "Unidad de Fomento",
+    "active": true,
+    "currencyValue": 990
+  },
+  {
+    "currencyCode": "CLP",
+    "currencyName": "Chilean Peso",
+    "active": true,
+    "currencyValue": 152
+  },
+  {
+    "currencyCode": "CNY",
+    "currencyName": "Yuan Renminbi",
+    "active": true,
+    "currencyValue": 156
+  },
+  {
+    "currencyCode": "COP",
+    "currencyName": "Colombian Peso",
+    "active": true,
+    "currencyValue": 170
+  },
+  {
+    "currencyCode": "COU",
+    "currencyName": "Unidad de Valor Real",
+    "active": true,
+    "currencyValue": 970
+  },
+  {
+    "currencyCode": "CRC",
+    "currencyName": "Costa Rican Colon",
+    "active": true,
+    "currencyValue": 188
+  },
+  {
+    "currencyCode": "CUC",
+    "currencyName": "Peso Convertible",
+    "active": true,
+    "currencyValue": 931
+  },
+  {
+    "currencyCode": "CUP",
+    "currencyName": "Cuban Peso",
+    "active": true,
+    "currencyValue": 192
+  },
+  {
+    "currencyCode": "CVE",
+    "currencyName": "Cabo Verde Escudo",
+    "active": true,
+    "currencyValue": 132
+  },
+  {
+    "currencyCode": "CZK",
+    "currencyName": "Czech Koruna",
+    "active": true,
+    "currencyValue": 203
+  },
+  {
+    "currencyCode": "DJF",
+    "currencyName": "Djibouti Franc",
+    "active": true,
+    "currencyValue": 262
+  },
+  {
+    "currencyCode": "DKK",
+    "currencyName": "Danish Krone",
+    "active": true,
+    "currencyValue": 208
+  },
+  {
+    "currencyCode": "DOP",
+    "currencyName": "Dominican Peso",
+    "active": true,
+    "currencyValue": 214
+  },
+  {
+    "currencyCode": "DZD",
+    "currencyName": "Algerian Dinar",
+    "active": true,
+    "currencyValue": 12
+  },
+  {
+    "currencyCode": "EGP",
+    "currencyName": "Egyptian Pound",
+    "active": true,
+    "currencyValue": 818
+  },
+  {
+    "currencyCode": "ERN",
+    "currencyName": "Nakfa",
+    "active": true,
+    "currencyValue": 232
+  },
+  {
+    "currencyCode": "ETB",
+    "currencyName": "Ethiopian Birr",
+    "active": true,
+    "currencyValue": 230
+  },
+  {
+    "currencyCode": "EUR",
+    "currencyName": "Euro",
+    "active": true,
+    "currencyValue": 978
+  },
+  {
+    "currencyCode": "FJD",
+    "currencyName": "Fiji Dollar",
+    "active": true,
+    "currencyValue": 242
+  },
+  {
+    "currencyCode": "FKP",
+    "currencyName": "Falkland Islands Pound",
+    "active": true,
+    "currencyValue": 238
+  },
+  {
+    "currencyCode": "GBP",
+    "currencyName": "Pound Sterling",
+    "active": true,
+    "currencyValue": 826
+  },
+  {
+    "currencyCode": "GEL",
+    "currencyName": "Lari",
+    "active": true,
+    "currencyValue": 981
+  },
+  {
+    "currencyCode": "GHS",
+    "currencyName": "Ghana Cedi",
+    "active": true,
+    "currencyValue": 936
+  },
+  {
+    "currencyCode": "GIP",
+    "currencyName": "Gibraltar Pound",
+    "active": true,
+    "currencyValue": 292
+  },
+  {
+    "currencyCode": "GMD",
+    "currencyName": "Dalasi",
+    "active": true,
+    "currencyValue": 270
+  },
+  {
+    "currencyCode": "GNF",
+    "currencyName": "Guinea Franc",
+    "active": true,
+    "currencyValue": 324
+  },
+  {
+    "currencyCode": "GTQ",
+    "currencyName": "Quetzal",
+    "active": true,
+    "currencyValue": 320
+  },
+  {
+    "currencyCode": "GYD",
+    "currencyName": "Guyana Dollar",
+    "active": true,
+    "currencyValue": 328
+  },
+  {
+    "currencyCode": "HKD",
+    "currencyName": "Hong Kong Dollar",
+    "active": true,
+    "currencyValue": 344
+  },
+  {
+    "currencyCode": "HNL",
+    "currencyName": "Lempira",
+    "active": true,
+    "currencyValue": 340
+  },
+  {
+    "currencyCode": "HRK",
+    "currencyName": "Kuna",
+    "active": true,
+    "currencyValue": 191
+  },
+  {
+    "currencyCode": "HTG",
+    "currencyName": "Gourde",
+    "active": true,
+    "currencyValue": 332
+  },
+  {
+    "currencyCode": "HUF",
+    "currencyName": "Forint",
+    "active": true,
+    "currencyValue": 348
+  },
+  {
+    "currencyCode": "IDR",
+    "currencyName": "Rupiah",
+    "active": true,
+    "currencyValue": 360
+  },
+  {
+    "currencyCode": "ILS",
+    "currencyName": "New Israeli Sheqel",
+    "active": true,
+    "currencyValue": 376
+  },
+  {
+    "currencyCode": "INR",
+    "currencyName": "Indian Rupee",
+    "active": true,
+    "currencyValue": 356
+  },
+  {
+    "currencyCode": "IQD",
+    "currencyName": "Iraqi Dinar",
+    "active": true,
+    "currencyValue": 368
+  },
+  {
+    "currencyCode": "IRR",
+    "currencyName": "Iranian Rial",
+    "active": true,
+    "currencyValue": 364
+  },
+  {
+    "currencyCode": "ISK",
+    "currencyName": "Iceland Krona",
+    "active": true,
+    "currencyValue": 352
+  },
+  {
+    "currencyCode": "JMD",
+    "currencyName": "Jamaican Dollar",
+    "active": true,
+    "currencyValue": 388
+  },
+  {
+    "currencyCode": "JOD",
+    "currencyName": "Jordanian Dinar",
+    "active": true,
+    "currencyValue": 400
+  },
+  {
+    "currencyCode": "JPY",
+    "currencyName": "Yen",
+    "active": true,
+    "currencyValue": 392
+  },
+  {
+    "currencyCode": "KES",
+    "currencyName": "Kenyan Shilling",
+    "active": true,
+    "currencyValue": 404
+  },
+  {
+    "currencyCode": "KGS",
+    "currencyName": "Som",
+    "active": true,
+    "currencyValue": 417
+  },
+  {
+    "currencyCode": "KHR",
+    "currencyName": "Riel",
+    "active": true,
+    "currencyValue": 116
+  },
+  {
+    "currencyCode": "KMF",
+    "currencyName": "Comoro Franc",
+    "active": true,
+    "currencyValue": 174
+  },
+  {
+    "currencyCode": "KPW",
+    "currencyName": "North Korean Won",
+    "active": true,
+    "currencyValue": 408
+  },
+  {
+    "currencyCode": "KRW",
+    "currencyName": "Won",
+    "active": true,
+    "currencyValue": 410
+  },
+  {
+    "currencyCode": "KWD",
+    "currencyName": "Kuwaiti Dinar",
+    "active": true,
+    "currencyValue": 414
+  },
+  {
+    "currencyCode": "KYD",
+    "currencyName": "Cayman Islands Dollar",
+    "active": true,
+    "currencyValue": 136
+  },
+  {
+    "currencyCode": "KZT",
+    "currencyName": "Tenge",
+    "active": true,
+    "currencyValue": 398
+  },
+  {
+    "currencyCode": "LAK",
+    "currencyName": "Kip",
+    "active": true,
+    "currencyValue": 418
+  },
+  {
+    "currencyCode": "LBP",
+    "currencyName": "Lebanese Pound",
+    "active": true,
+    "currencyValue": 422
+  },
+  {
+    "currencyCode": "LKR",
+    "currencyName": "Sri Lanka Rupee",
+    "active": true,
+    "currencyValue": 144
+  },
+  {
+    "currencyCode": "LRD",
+    "currencyName": "Liberian Dollar",
+    "active": true,
+    "currencyValue": 430
+  },
+  {
+    "currencyCode": "LSL",
+    "currencyName": "Loti",
+    "active": true,
+    "currencyValue": 426
+  },
+  {
+    "currencyCode": "LYD",
+    "currencyName": "Libyan Dinar",
+    "active": true,
+    "currencyValue": 434
+  },
+  {
+    "currencyCode": "MAD",
+    "currencyName": "Moroccan Dirham",
+    "active": true,
+    "currencyValue": 504
+  },
+  {
+    "currencyCode": "MDL",
+    "currencyName": "Moldovan Leu",
+    "active": true,
+    "currencyValue": 498
+  },
+  {
+    "currencyCode": "MGA",
+    "currencyName": "Malagasy Ariary",
+    "active": true,
+    "currencyValue": 969
+  },
+  {
+    "currencyCode": "MKD",
+    "currencyName": "Denar",
+    "active": true,
+    "currencyValue": 807
+  },
+  {
+    "currencyCode": "MMK",
+    "currencyName": "Kyat",
+    "active": true,
+    "currencyValue": 104
+  },
+  {
+    "currencyCode": "MNT",
+    "currencyName": "Tugrik",
+    "active": true,
+    "currencyValue": 496
+  },
+  {
+    "currencyCode": "MOP",
+    "currencyName": "Pataca",
+    "active": true,
+    "currencyValue": 446
+  },
+  {
+    "currencyCode": "MRU",
+    "currencyName": "Ouguiya",
+    "active": true,
+    "currencyValue": 929
+  },
+  {
+    "currencyCode": "MUR",
+    "currencyName": "Mauritius Rupee",
+    "active": true,
+    "currencyValue": 480
+  },
+  {
+    "currencyCode": "MVR",
+    "currencyName": "Rufiyaa",
+    "active": true,
+    "currencyValue": 462
+  },
+  {
+    "currencyCode": "MWK",
+    "currencyName": "Kwacha",
+    "active": true,
+    "currencyValue": 454
+  },
+  {
+    "currencyCode": "MXN",
+    "currencyName": "Mexican Peso",
+    "active": true,
+    "currencyValue": 484
+  },
+  {
+    "currencyCode": "MXV",
+    "currencyName": "Mexican Unidad de Inversion (UDI)",
+    "active": true,
+    "currencyValue": 979
+  },
+  {
+    "currencyCode": "MYR",
+    "currencyName": "Malaysian Ringgit",
+    "active": true,
+    "currencyValue": 458
+  },
+  {
+    "currencyCode": "MZN",
+    "currencyName": "Mozambique Metical",
+    "active": true,
+    "currencyValue": 943
+  },
+  {
+    "currencyCode": "NAD",
+    "currencyName": "Namibia Dollar",
+    "active": true,
+    "currencyValue": 516
+  },
+  {
+    "currencyCode": "NGN",
+    "currencyName": "Naira",
+    "active": true,
+    "currencyValue": 566
+  },
+  {
+    "currencyCode": "NIO",
+    "currencyName": "Cordoba Oro",
+    "active": true,
+    "currencyValue": 558
+  },
+  {
+    "currencyCode": "NOK",
+    "currencyName": "Norwegian Krone",
+    "active": true,
+    "currencyValue": 578
+  },
+  {
+    "currencyCode": "NPR",
+    "currencyName": "Nepalese Rupee",
+    "active": true,
+    "currencyValue": 524
+  },
+  {
+    "currencyCode": "NZD",
+    "currencyName": "New Zealand Dollar",
+    "active": true,
+    "currencyValue": 554
+  },
+  {
+    "currencyCode": "OMR",
+    "currencyName": "Rial Omani",
+    "active": true,
+    "currencyValue": 512
+  },
+  {
+    "currencyCode": "PAB",
+    "currencyName": "Balboa",
+    "active": true,
+    "currencyValue": 590
+  },
+  {
+    "currencyCode": "PEN",
+    "currencyName": "Nuevo Sol",
+    "active": true,
+    "currencyValue": 604
+  },
+  {
+    "currencyCode": "PGK",
+    "currencyName": "Kina",
+    "active": true,
+    "currencyValue": 598
+  },
+  {
+    "currencyCode": "PHP",
+    "currencyName": "Philippine Peso",
+    "active": true,
+    "currencyValue": 608
+  },
+  {
+    "currencyCode": "PKR",
+    "currencyName": "Pakistan Rupee",
+    "active": true,
+    "currencyValue": 586
+  },
+  {
+    "currencyCode": "PLN",
+    "currencyName": "Zloty",
+    "active": true,
+    "currencyValue": 985
+  },
+  {
+    "currencyCode": "PYG",
+    "currencyName": "Guarani",
+    "active": true,
+    "currencyValue": 600
+  },
+  {
+    "currencyCode": "QAR",
+    "currencyName": "Qatari Rial",
+    "active": true,
+    "currencyValue": 634
+  },
+  {
+    "currencyCode": "RON",
+    "currencyName": "Romanian Leu",
+    "active": true,
+    "currencyValue": 946
+  },
+  {
+    "currencyCode": "RSD",
+    "currencyName": "Serbian Dinar",
+    "active": true,
+    "currencyValue": 941
+  },
+  {
+    "currencyCode": "RUB",
+    "currencyName": "Russian Ruble",
+    "active": true,
+    "currencyValue": 643
+  },
+  {
+    "currencyCode": "RWF",
+    "currencyName": "Rwanda Franc",
+    "active": true,
+    "currencyValue": 646
+  },
+  {
+    "currencyCode": "SAR",
+    "currencyName": "Saudi Riyal",
+    "active": true,
+    "currencyValue": 682
+  },
+  {
+    "currencyCode": "SBD",
+    "currencyName": "Solomon Islands Dollar",
+    "active": true,
+    "currencyValue": 90
+  },
+  {
+    "currencyCode": "SCR",
+    "currencyName": "Seychelles Rupee",
+    "active": true,
+    "currencyValue": 690
+  },
+  {
+    "currencyCode": "SDG",
+    "currencyName": "Sudanese Pound",
+    "active": true,
+    "currencyValue": 938
+  },
+  {
+    "currencyCode": "SEK",
+    "currencyName": "Swedish Krona",
+    "active": true,
+    "currencyValue": 752
+  },
+  {
+    "currencyCode": "SGD",
+    "currencyName": "Singapore Dollar",
+    "active": true,
+    "currencyValue": 702
+  },
+  {
+    "currencyCode": "SHP",
+    "currencyName": "Saint Helena Pound",
+    "active": true,
+    "currencyValue": 654
+  },
+  {
+    "currencyCode": "SLL",
+    "currencyName": "Leone",
+    "active": true,
+    "currencyValue": 694
+  },
+  {
+    "currencyCode": "SOS",
+    "currencyName": "Somali Shilling",
+    "active": true,
+    "currencyValue": 706
+  },
+  {
+    "currencyCode": "SRD",
+    "currencyName": "Surinam Dollar",
+    "active": true,
+    "currencyValue": 968
+  },
+  {
+    "currencyCode": "SSP",
+    "currencyName": "South Sudanese Pound",
+    "active": true,
+    "currencyValue": 728
+  },
+  {
+    "currencyCode": "STN",
+    "currencyName": "Dobra",
+    "active": true,
+    "currencyValue": 930
+  },
+  {
+    "currencyCode": "SVC",
+    "currencyName": "El Salvador Colon",
+    "active": true,
+    "currencyValue": 222
+  },
+  {
+    "currencyCode": "SYP",
+    "currencyName": "Syrian Pound",
+    "active": true,
+    "currencyValue": 760
+  },
+  {
+    "currencyCode": "SZL",
+    "currencyName": "Lilangeni",
+    "active": true,
+    "currencyValue": 748
+  },
+  {
+    "currencyCode": "THB",
+    "currencyName": "Baht",
+    "active": true,
+    "currencyValue": 764
+  },
+  {
+    "currencyCode": "TJS",
+    "currencyName": "Somoni",
+    "active": true,
+    "currencyValue": 972
+  },
+  {
+    "currencyCode": "TMT",
+    "currencyName": "Turkmenistan New Manat",
+    "active": true,
+    "currencyValue": 934
+  },
+  {
+    "currencyCode": "TND",
+    "currencyName": "Tunisian Dinar",
+    "active": true,
+    "currencyValue": 788
+  },
+  {
+    "currencyCode": "TOP",
+    "currencyName": "Pa’anga",
+    "active": true,
+    "currencyValue": 776
+  },
+  {
+    "currencyCode": "TRY",
+    "currencyName": "Turkish Lira",
+    "active": true,
+    "currencyValue": 949
+  },
+  {
+    "currencyCode": "TTD",
+    "currencyName": "Trinidad and Tobago Dollar",
+    "active": true,
+    "currencyValue": 780
+  },
+  {
+    "currencyCode": "TWD",
+    "currencyName": "New Taiwan Dollar",
+    "active": true,
+    "currencyValue": 901
+  },
+  {
+    "currencyCode": "TZS",
+    "currencyName": "Tanzanian Shilling",
+    "active": true,
+    "currencyValue": 834
+  },
+  {
+    "currencyCode": "UAH",
+    "currencyName": "Hryvnia",
+    "active": true,
+    "currencyValue": 980
+  },
+  {
+    "currencyCode": "UGX",
+    "currencyName": "Uganda Shilling",
+    "active": true,
+    "currencyValue": 800
+  },
+  {
+    "currencyCode": "USD",
+    "currencyName": "US Dollar",
+    "active": true,
+    "currencyValue": 840
+  },
+  {
+    "currencyCode": "USN",
+    "currencyName": "US Dollar (Next day)",
+    "active": true,
+    "currencyValue": 997
+  },
+  {
+    "currencyCode": "UYI",
+    "currencyName": "Uruguay Peso en Unidades Indexadas (URUIURUI)",
+    "active": true,
+    "currencyValue": 940
+  },
+  {
+    "currencyCode": "UYU",
+    "currencyName": "Peso Uruguayo",
+    "active": true,
+    "currencyValue": 858
+  },
+  {
+    "currencyCode": "UZS",
+    "currencyName": "Uzbekistan Sum",
+    "active": true,
+    "currencyValue": 860
+  },
+  {
+    "currencyCode": "VEF",
+    "currencyName": "Bolivar",
+    "active": true,
+    "currencyValue": 937
+  },
+  {
+    "currencyCode": "VND",
+    "currencyName": "Dong",
+    "active": true,
+    "currencyValue": 704
+  },
+  {
+    "currencyCode": "VUV",
+    "currencyName": "Vatu",
+    "active": true,
+    "currencyValue": 548
+  },
+  {
+    "currencyCode": "WST",
+    "currencyName": "Tala",
+    "active": true,
+    "currencyValue": 882
+  },
+  {
+    "currencyCode": "XAF",
+    "currencyName": "CFA Franc BEAC",
+    "active": true,
+    "currencyValue": 950
+  },
+  {
+    "currencyCode": "XCD",
+    "currencyName": "East Caribbean Dollar",
+    "active": true,
+    "currencyValue": 951
+  },
+  {
+    "currencyCode": "XDR",
+    "currencyName": "SDR (Special Drawing Right)",
+    "active": true,
+    "currencyValue": 960
+  },
+  {
+    "currencyCode": "XOF",
+    "currencyName": "CFA Franc BCEAO",
+    "active": true,
+    "currencyValue": 952
+  },
+  {
+    "currencyCode": "XPF",
+    "currencyName": "CFP Franc",
+    "active": true,
+    "currencyValue": 953
+  },
+  {
+    "currencyCode": "XSU",
+    "currencyName": "Sucre",
+    "active": true,
+    "currencyValue": 994
+  },
+  {
+    "currencyCode": "XUA",
+    "currencyName": "ADB Unit of Account",
+    "active": true,
+    "currencyValue": 965
+  },
+  {
+    "currencyCode": "YER",
+    "currencyName": "Yemeni Rial",
+    "active": true,
+    "currencyValue": 886
+  },
+  {
+    "currencyCode": "ZAR",
+    "currencyName": "Rand",
+    "active": true,
+    "currencyValue": 710
+  },
+  {
+    "currencyCode": "ZMW",
+    "currencyName": "Zambian Kwacha",
+    "active": true,
+    "currencyValue": 967
+  },
+  {
+    "currencyCode": "ZWL",
+    "currencyName": "Zimbabwe Dollar",
+    "active": true,
+    "currencyValue": 932
+  }
+]
